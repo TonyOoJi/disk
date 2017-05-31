@@ -1,1 +1,7 @@
 /action
+/common
+/dao
+/entity
+/interceptor
+/service
+/test
